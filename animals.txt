@@ -1,0 +1,7 @@
+Bob Hog Male 20150703 Yes Seed Apples Grass wheat Leafs
+Hank Hawk Male 2019-08-01 No Corn Greens Rats Mice Fish
+Jess Tiger Male 2019-08-01 Yes Chicken Rabbits Duck Pork Beef
+Sam Lion Female 2016-08-03 Yes Chicken Beef Pork Fish Wheat
+Jake Horse Male 2013-08-01 No Corn Seed Feed Salt Hey
+Travis Snake Male 2019-08-01 No Eggs Rats Mice Snakes Chickens
+Bruce Bat Male 2016-08-03 Yes Seed Corn Apples Honeydew Strawberry

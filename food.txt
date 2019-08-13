@@ -1,0 +1,21 @@
+Crayfish A small shellfish southernfloidafish.com 10 150 f1
+Fish Fresh water fish freshlakefishers.net 200 1000 f2
+Apples Fresh Fruit Green famersofflorida.org 500 5000 f3
+Corn Fresh Vegetable Mixed famersofsouthernflorida.com 1000 50000 f4
+Flies A small insect bugsforfrogs.com 20 200 f5
+Chicken A small bird famersofflorida.org 250 1000 f6
+Mollusks A small snail snailfarms.com 100 400 f7
+Oysters Salt water molluscs Oysters.com 75 150 f8
+Frog A small frog theswampcritters.org 150 300 f9 
+Crabs Soft shell crab southcostfisherman.com 50 200 f10
+Mice A small rodent mice.com 100 500 f11
+Rabbit A small rodent bounce.com 25 250 f12
+Rat A small rodent rat.org 50 200 f13
+Honeydew A sweet melon publix.com 100 1000 f14
+Flower A Honeysuckle plant sweetFlowers.com 75 250 f15
+Bark Grows on trees Zoo 25 25 f16
+Orange A citrus fruit publix.com 100 1000 f17
+Cricket A small bug cricket.com 50 250 f18
+Worm A small animal onthehook.com 50 500 f19
+Seed Sun flower seeds publix.com 50 1500 f20
+Hay A Dry Grass Hay.com 100 1000
